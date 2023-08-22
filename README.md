@@ -1,9 +1,9 @@
-Badds CheatSheets List
+Programming and Data Science Cheat Sheets List
 ===========
 
 ---
 
-CheatSheets's list about programmation and Data Science
+As the name suggests, this repository presents a list of cheat sheets on programming and data science.
 
 ---
 # Table of Contents
