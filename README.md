@@ -67,7 +67,7 @@ CheatSheets's list about programmation and Data Science
 - Others
 
 ##### Example :
-![devhints.io Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/devhints.io.png)
+![devhints.io Example](assets/devhints.io.png)
 
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
@@ -76,7 +76,7 @@ CheatSheets's list about programmation and Data Science
 **Notes of Guifre Ruiz**
 
 ##### Example :
-![Guif.re Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/Guif.re.png)
+![Guif.re Example](assets/Guif.re.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
@@ -91,7 +91,7 @@ CheatSheets's list about programmation and Data Science
 
 
 ##### Example :
-![Quickref Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/Quickref.png)
+![Quickref Example](assets/Quickref.png)
 
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
@@ -104,7 +104,7 @@ CheatSheets's list about programmation and Data Science
 **Ressources in fr-fr**
 
 ##### Example :
-![Learnxinyminutes Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/Quickref.png)
+![Learnxinyminutes Example](assets/Quickref.png)
 
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
@@ -114,7 +114,7 @@ CheatSheets's list about programmation and Data Science
 ### [shortcutfoo](https://www.shortcutfoo.com/) (Learn shortcuts)
 
 ##### Example :
-![shortcutfoo Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/shortcutfoo.png)
+![shortcutfoo Example](assets/shortcutfoo.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
@@ -132,7 +132,7 @@ CheatSheets's list about programmation and Data Science
 - Tools
 
 ##### Example :
-![Awesome Cheat Sheets Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/awesome-cheatsheets.png)
+![Awesome Cheat Sheets Example](assets/awesome-cheatsheets.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
@@ -163,21 +163,21 @@ CheatSheets's list about programmation and Data Science
 ### [ES6 Cheat Sheet (ECMAScript 2015)](https://slides.com/drksephy/ecmascript-2015)
 
 ##### Example :
-![ES6 Cheat Sheet (ECMAScript 2015) Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/ES6-cheatsheet.png)
+![ES6 Cheat Sheet (ECMAScript 2015) Example](assets/ES6-cheatsheet.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
 ### [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
 
 ##### Example :
-![Modern JavaScript Cheatsheet Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/modern-js-cheatsheet.png)
+![Modern JavaScript Cheatsheet Example](assets/modern-js-cheatsheet.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
 ### [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
 
 ##### Example :
-![React Typescript Cheatsheet Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/react-typescript-cheatsheet.png)
+![React Typescript Cheatsheet Example](assets/react-typescript-cheatsheet.png)
 
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
@@ -193,7 +193,7 @@ CheatSheets's list about programmation and Data Science
 
 
 ##### Example :
-![Computer Science Cheatsheet Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/ComputerScience.png)
+![Computer Science Cheatsheet Example](assets/ComputerScience.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
@@ -215,7 +215,7 @@ CheatSheets's list about programmation and Data Science
 - Data Science Cheatsheet Takeaway
 
 ##### Example :
-![Data Science Cheatsheets Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/ds-cheatsheets.png)
+![Data Science Cheatsheets Example](assets/ds-cheatsheets.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
@@ -239,7 +239,7 @@ CheatSheets's list about programmation and Data Science
 
 
 ##### Example :
-![Essential Cheat Sheets for Machine Learning and Deep Learning Engineers Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/essential-cheat-sheets.png)
+![Essential Cheat Sheets for Machine Learning and Deep Learning Engineers Example](assets/essential-cheat-sheets.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
@@ -251,7 +251,7 @@ CheatSheets's list about programmation and Data Science
 ### [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
 ##### Example :
-![Comprehensive Python Cheatsheet Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/python-cheatsheet.png)
+![Comprehensive Python Cheatsheet Example](assets/python-cheatsheet.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
@@ -259,24 +259,24 @@ CheatSheets's list about programmation and Data Science
 ### [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets)
 
 #### Fichier : 
-[Matplotlib Cheatsheets PDF](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/matplotlib.pdf)
+[Matplotlib Cheatsheets PDF](assets/matplotlib.pdf)
 
-[Matplotlib Handout beginner PDF](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/matplotlib-handout-beginner.pdf)
+[Matplotlib Handout beginner PDF](assets/matplotlib-handout-beginner.pdf)
 
-[Matplotlib Intermediate handout PDF](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/matplotlib-handout-intermediate.pdf)
+[Matplotlib Intermediate handout PDF](assets/matplotlib-handout-intermediate.pdf)
 
-[Matplotlib Tips handout PDF](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/matplotlib-handout-tips.pdf)
+[Matplotlib Tips handout PDF](assets/matplotlib-handout-tips.pdf)
 
 
 ##### Example :
-![Official Matplotlib cheat sheets](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/matplotlib.png)
+![Official Matplotlib cheat sheets](assets/matplotlib.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
 ### [Pythoncheatsheet](https://www.pythoncheatsheet.org/)
 
 ##### Example :
-![Python Cheat Sheet Example](F:/Sync/APPRENTISSAGE/PROGRAMMATION/Markdown/Exemple_cheatsheets/Pythoncheatsheet.png)
+![Python Cheat Sheet Example](assets/Pythoncheatsheet.png)
 
 <sup>[(back to table of contents)](#table-of-contents)</sup>
 
